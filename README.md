@@ -12,7 +12,7 @@
   <br><br>
     <h1>Development</h1>
   <p>would you like to help, you can send an email to <a href="mailto:tap@martijndev.me">tap@martijndev.me<br>Or you can join our Discord server</p>
-  <a href="https://invidget.switchblade.xyz/6PQWgzAt">
+  <img src="https://invidget.switchblade.xyz/6PQWgzAt">
   <br><br>
   <h1>Screenshots</h1>
   <p>*This is the design</p>
