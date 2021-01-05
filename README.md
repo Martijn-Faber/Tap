@@ -10,4 +10,50 @@
     <img src="./Github/badges/Tap - Badges - Prs.svg" alt="Pull Requests" width="140"></img>
   </a>
   <br><br>
+  <table>
+  <thead>
+    <tr>
+      <th>Light Mode</th>
+      <th>Dark Mode</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img
+          src="./Github/screenshots/Tap - Start.png"
+        />
+      </td>
+      <td>
+        <img
+          src="./Github/screenshots/Tap - Signup.png"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="./Github/screenshots/Tap - Signin.png"
+        />
+      </td>
+      <td>
+        <img
+          src="./Github/screenshots/Tap - Create.png"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="./Github/screenshots/Tap - Create ready.png"
+        />
+      </td>
+      <td>
+        <img
+          src="./Github/screenshots/Tap - Scanning.png"
+        />
+      </td>
+    </tr>
+  </tbody>
+</table>
 </div>
