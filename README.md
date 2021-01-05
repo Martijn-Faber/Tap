@@ -10,11 +10,11 @@
     <img src="./Github/badges/Tap - Badges - Prs.svg" alt="Pull Requests" width="140"></img>
   </a>
   <br><br>
+  <h1>Screenshots</h1>
   <table>
   <thead>
     <tr>
-      <th>Light Mode</th>
-      <th>Dark Mode</th>
+      <th>Design</th>
     </tr>
   </thead>
   <tbody>
