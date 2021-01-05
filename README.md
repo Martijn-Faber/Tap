@@ -11,7 +11,7 @@
   </a>
   <br><br>
     <h1>Development</h1>
-  <p>would you like to help, you can send an email to <a href="mailto:tap@martijndev.me">tap@martijndev.me<br>Or you can join our Discord server</p>
+  <p>would you like to help, you can send an email to <a href="mailto:tap@martijndev.me">tap@martijndev.me</a><br>Or you can join our Discord server</p>
   <img src="https://invidget.switchblade.xyz/6PQWgzAt">
   <br><br>
   <h1>Screenshots</h1>
